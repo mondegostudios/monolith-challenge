@@ -84,6 +84,8 @@ We don’t mean to take too much of your time. Our hope is this won't take more 
 
 We look forward to receiving your results. Good luck!
 
+#----------------------------- Edited by Gonçalo ----------------------------
+
 ## My assumptions
 - A transaction will always have a timestamp
 - There are no `0 amount` transactions
